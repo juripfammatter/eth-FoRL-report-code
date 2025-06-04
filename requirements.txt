@@ -1,0 +1,5 @@
+numpy==2.0.2
+matplotlib==3.9.4
+statistics==1.0.3.5
+seaborn==0.13.2
+tqdm==4.67.1
